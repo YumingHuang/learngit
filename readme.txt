@@ -4,3 +4,4 @@ modify 1
 modify 2
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
+ok test --no-ff 
